@@ -1,0 +1,15 @@
+{
+  "name": "lbergelt/crypto-js",
+  "description": "JavaScript library of crypto standards.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "version": "4.2.0",
+  "authors": [
+    {
+      "name": "Lars Bergelt",
+      "email": "lb@lbergelt.de"
+    }
+  ],
+  "require": {
+  }
+}
